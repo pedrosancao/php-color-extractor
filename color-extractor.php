@@ -4,6 +4,7 @@
  * This package can be used to get the most common colors in an image.
  *
  * Author: 	Pedro Sanção
+ * Licence: 	GNU General Public Licence V2
  *
  * Based on the work of:
  * - Csongor Zalatnai (http://www.phpclasses.org/browse/package/3370.html)
