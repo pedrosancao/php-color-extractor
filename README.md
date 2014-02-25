@@ -1,4 +1,4 @@
-#PHP Color extractor color-extractor
+#PHP Color extractor
 
 PHP library for extracting  the colors of images.
 
